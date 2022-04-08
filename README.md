@@ -16,6 +16,15 @@
 - [x] 2.6. Conhecendo o Maven e o pom.xml de um projeto Spring Boot
 - [x] 2.7. Criando um controller com Spring MVC
 - [x] 2.8. Restart mais rápido da aplicação com DevTools
+- [x] 2.9. O que é injeção de dependências?
+- [x] 2.10. Conhecendo o IoC Container do Spring
+- [x] 2.11. Definindo beans com @Component
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 - [ ]
 - [ ]
 - [ ]
