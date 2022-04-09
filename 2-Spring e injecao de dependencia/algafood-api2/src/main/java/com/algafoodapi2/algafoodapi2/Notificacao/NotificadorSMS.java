@@ -1,9 +1,11 @@
 package com.algafoodapi2.algafoodapi2.Notificacao;
 
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 import com.algafoodapi2.algafoodapi2.model.Cliente;
 
+@TipoDoNotificador(NivelUrgencia.URGENTE)
 @Component
 public class NotificadorSMS implements Notificador {
 

@@ -31,6 +31,8 @@
 - [x] 2.16. Ambiguidade de beans e injeção de lista de beans
 - [x] 2.17. Desambiguação de beans com @Primary
 - [x] 2.18. Desambiguação de beans com @Qualifier
+- [ ] 2.19. Desambiguação de beans com anotação customizada
+- [ ]
 - [ ]
 - [ ]
   </details>
