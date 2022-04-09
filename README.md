@@ -22,7 +22,7 @@
 - [x] 2.12. Injetando dependências (beans Spring)
 - [x] 2.13. Usando @Configuration e @Bean para definir beans
 - [x] 2.14. Conhecendo os pontos de injeção e a anotação @Autowired
-- [ ]
+- [x] 2.15. Dependência opcional com @Autowired
 - [ ]
 - [ ]
 - [ ]

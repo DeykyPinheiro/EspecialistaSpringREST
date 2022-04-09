@@ -8,26 +8,19 @@ import com.algafoodapi2.algafoodapi2.model.Cliente;
 
 @Component
 public class AtivacaoClienteService {
-	
-	@Autowired
+
+	@Autowired(required = false)
 	private Notificador notificador;
-	
-//	@Autowired
-//	public AtivacaoClienteService(Notificador notificador) {
-//		this.notificador = notificador;
-//	}
-	
+
 	public void ativar(Cliente cliente) {
 		cliente.ativar();
-		
-		notificador.notificar(cliente, "seu cadastro no sistema esta ativo!");
-	}
 
-//	@Autowired
-	public void setNotificador(Notificador notificador) {
-		this.notificador = notificador;
-		System.out.println("tem um notificado: " + notificador);
+		if (notificador != null) {
+			notificador.notificar(cliente, "seu cadastro no sistema esta ativo!");
+		} else {
+			System.out.println("não existe notificador, mas cliente foi ativado");
+		}
+
 	}
-	
 
 }
