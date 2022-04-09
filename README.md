@@ -1,14 +1,19 @@
-<h3>1.Introdução<h3>
+
+
+<details>
+  <summary> <b> 1.Introdução </b> <i></i> </summary>
 
 - [x] 1.1. Introdução ao treinamento
 - [x]  1.2. Como usar o suporte da AlgaWorks
 - [x] 1.3. Por que desenvolver REST APIs?
 - [x] 1.4. Conhecendo o modelo de dominio do projeto do curso
 - [x] 1.5. Preparando o ambiente de desenvolvimento: JDK e STS for Eclipse
+  </details>
 
-<h3>2.Spring e injecao de dependencia<h3>
+<details>
+  <summary> <b> 2.Spring e injecao de dependencia </b> <i></i> </summary>
 
-- [x] 2.1. Por que aprender e usar Spring?
+  [x] 2.1. Por que aprender e usar Spring?
 - [x] 2.2. Conhecendo o ecossistema Spring
 - [x] 2.3. Spring vs Jakarta EE (Java EE)
 - [x] 2.4. Conhecendo o Spring Boot
@@ -23,29 +28,22 @@
 - [x] 2.13. Usando @Configuration e @Bean para definir beans
 - [x] 2.14. Conhecendo os pontos de injeção e a anotação @Autowired
 - [x] 2.15. Dependência opcional com @Autowired
+- [ ] 2.16. Ambiguidade de beans e injeção de lista de beans
 - [ ]
 - [ ]
 - [ ]
 - [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+  </details>
 
+<details>
+  <summary> <b> modelo </b> <i></i> </summary>
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+  </details>
