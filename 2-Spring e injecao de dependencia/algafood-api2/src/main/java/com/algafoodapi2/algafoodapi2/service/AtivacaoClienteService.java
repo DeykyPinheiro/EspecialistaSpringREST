@@ -12,16 +12,14 @@ import com.algafoodapi2.algafoodapi2.model.Cliente;
 public class AtivacaoClienteService {
 
 	@Autowired
-	private List<Notificador> notificadores;
+	private Notificador notificador;
 
 	public void ativar(Cliente cliente) {
 		cliente.ativar();
 
-		for (Notificador notificador : notificadores) {
 			notificador.notificar(cliente, "seu cadastro no sistema esta ativo!");
 
 		}
 
 	}
 
-}
