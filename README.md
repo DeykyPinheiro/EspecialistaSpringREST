@@ -19,6 +19,20 @@
 - [x] 2.9. O que é injeção de dependências?
 - [x] 2.10. Conhecendo o IoC Container do Spring
 - [x] 2.11. Definindo beans com @Component
+- [x] 2.12. Injetando dependências (beans Spring)
+- [x] 2.13. Usando @Configuration e @Bean para definir beans
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 - [ ]
 - [ ]
 - [ ]

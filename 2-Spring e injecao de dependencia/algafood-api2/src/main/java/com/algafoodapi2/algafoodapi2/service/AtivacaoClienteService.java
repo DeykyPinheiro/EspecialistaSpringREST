@@ -2,13 +2,18 @@ package com.algafoodapi2.algafoodapi2.service;
 
 import org.springframework.stereotype.Component;
 
-import com.algafoodapi2.algafoodapi2.Notificacao.NotificadorEmail;
+import com.algafoodapi2.algafoodapi2.Notificacao.Notificador;
 import com.algafoodapi2.algafoodapi2.model.Cliente;
 
-@Component
 public class AtivacaoClienteService {
 	
-	private NotificadorEmail notificador;
+	private Notificador notificador;
+	
+	public AtivacaoClienteService(Notificador notificador) {
+		this.notificador = notificador;
+		
+		System.out.println("AtivacaoClienteService: " + notificador);
+	}
 	
 	public void ativar(Cliente cliente) {
 		cliente.ativar();
