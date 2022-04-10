@@ -34,8 +34,8 @@
 - [x] 2.19. Desambiguação de beans com anotação customizada
 - [x] 2.20. Mudando o comportamento da aplicação com Spring Profiles
 - [x] 2.21. Criando métodos de callback do ciclo de vida dos beans
-- [ ] 2.22. Publicando e consumindo eventos customizados
-- [ ]
+- [x] 2.22. Publicando e consumindo eventos customizados
+- [x] 2.23. Configurando projetos Spring Boot com o application.properties
 - [ ]
 - [ ]
 - [ ]
