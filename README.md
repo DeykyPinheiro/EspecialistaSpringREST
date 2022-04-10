@@ -33,6 +33,10 @@
 - [x] 2.18. Desambiguação de beans com @Qualifier
 - [x] 2.19. Desambiguação de beans com anotação customizada
 - [x] 2.20. Mudando o comportamento da aplicação com Spring Profiles
+- [ ] 2.21. Criando métodos de callback do ciclo de vida dos beans
+- [ ]
+- [ ]
+- [ ]
 - [ ]
 - [ ]
   </details>

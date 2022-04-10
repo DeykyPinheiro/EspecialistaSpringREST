@@ -2,6 +2,9 @@ package com.algafoodapi2.algafoodapi2.service;
 
 import java.util.List;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
@@ -11,12 +14,22 @@ import com.algafoodapi2.algafoodapi2.Notificacao.Notificador;
 import com.algafoodapi2.algafoodapi2.Notificacao.TipoDoNotificador;
 import com.algafoodapi2.algafoodapi2.model.Cliente;
 
-@Component
+//@Component
 public class AtivacaoClienteService {
 
 	@Autowired
 	@TipoDoNotificador(NivelUrgencia.SEM_URGENCIA)
 	private Notificador notificador;
+	
+//	@PostConstruct
+	public void init() {
+		System.out.println("INIT");
+	}
+	
+//	@PreDestroy
+	public void destroy() {
+		System.out.println("DESTORY");
+	}
  
 	public void ativar(Cliente cliente) {
 		cliente.ativar();
