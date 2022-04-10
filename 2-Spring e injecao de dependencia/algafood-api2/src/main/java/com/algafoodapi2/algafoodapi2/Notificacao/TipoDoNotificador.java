@@ -5,8 +5,8 @@ import java.lang.annotation.RetentionPolicy;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 
-@Retention(RetentionPolicy.RUNTIME)
 @Qualifier
+@Retention(RetentionPolicy.RUNTIME)
 public @interface TipoDoNotificador {
 	
 	NivelUrgencia value();

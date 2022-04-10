@@ -13,7 +13,7 @@
 <details>
   <summary> <b> 2.Spring e injecao de dependencia </b> <i></i> </summary>
 
-  [x] 2.1. Por que aprender e usar Spring?
+- [x] 2.1. Por que aprender e usar Spring?
 - [x] 2.2. Conhecendo o ecossistema Spring
 - [x] 2.3. Spring vs Jakarta EE (Java EE)
 - [x] 2.4. Conhecendo o Spring Boot
@@ -33,8 +33,8 @@
 - [x] 2.18. Desambiguação de beans com @Qualifier
 - [x] 2.19. Desambiguação de beans com anotação customizada
 - [x] 2.20. Mudando o comportamento da aplicação com Spring Profiles
-- [ ] 2.21. Criando métodos de callback do ciclo de vida dos beans
-- [ ]
+- [x] 2.21. Criando métodos de callback do ciclo de vida dos beans
+- [ ] 2.22. Publicando e consumindo eventos customizados
 - [ ]
 - [ ]
 - [ ]
