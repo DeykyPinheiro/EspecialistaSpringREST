@@ -15,7 +15,7 @@ import com.algafoodapi2.algafoodapi2.model.Cliente;
 public class AtivacaoClienteService {
 
 	@Autowired
-	@TipoDoNotificador(NivelUrgencia.URGENTE)
+	@TipoDoNotificador(NivelUrgencia.SEM_URGENCIA)
 	private Notificador notificador;
  
 	public void ativar(Cliente cliente) {
