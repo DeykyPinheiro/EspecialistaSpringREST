@@ -39,7 +39,7 @@
 - [x] 2.24. Substituindo propriedades via linha de comando e variáveis de ambiente
 - [x] 2.25. Criando e acessando propriedades customizadas com @Value
 - [x] 2.26. Acessando propriedades com @ConfigurationProperties
-- [ ]
+- [ ] 2.27. Alterando a configuração do projeto dependendo do ambiente (com Spring Profiles)
 - [ ]
   </details>
 
