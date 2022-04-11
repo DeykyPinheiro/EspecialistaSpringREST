@@ -36,7 +36,7 @@
 - [x] 2.21. Criando métodos de callback do ciclo de vida dos beans
 - [x] 2.22. Publicando e consumindo eventos customizados
 - [x] 2.23. Configurando projetos Spring Boot com o application.properties
-- [ ]
+- [ ] 2.24. Substituindo propriedades via linha de comando e variáveis de ambiente
 - [ ]
 - [ ]
   </details>
