@@ -37,8 +37,8 @@
 - [x] 2.22. Publicando e consumindo eventos customizados
 - [x] 2.23. Configurando projetos Spring Boot com o application.properties
 - [x] 2.24. Substituindo propriedades via linha de comando e variáveis de ambiente
-- [ ] 2.25. Criando e acessando propriedades customizadas com @Value
-- [ ]
+- [x] 2.25. Criando e acessando propriedades customizadas com @Value
+- [x] 2.26. Acessando propriedades com @ConfigurationProperties
 - [ ]
 - [ ]
   </details>
