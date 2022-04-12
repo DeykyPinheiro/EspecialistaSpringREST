@@ -43,10 +43,13 @@
 - [x] 2.28. Ativando o Spring Profile por linha de comando e variável de ambiente
   </details>
 
-  <details>
-  <summary> <b> 3.3-Introdução ao JPA e Hibernate </b> <i></i>
-  </summary>
+<details>
+  <summary> <b> 3.Introdução ao JPA e Hibernate </b> <i></i> </summary>
+
 - [x] 3.1. Instalando o MySQL Server e MySQL Workbench
+- [x] 3.2. O que é JPA e Hibernate?
+- [ ] 3.3. Adicionando JPA e configurando o Data Source
+- [ ]
 - [ ]
 - [ ]
 - [ ]
@@ -65,7 +68,7 @@
 <details>
   <summary> <b> modelo </b> <i></i> </summary>
 
-- [ ]
+- [x] aaa
 - [ ]
 - [ ]
 - [ ]
