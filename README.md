@@ -39,8 +39,27 @@
 - [x] 2.24. Substituindo propriedades via linha de comando e variáveis de ambiente
 - [x] 2.25. Criando e acessando propriedades customizadas com @Value
 - [x] 2.26. Acessando propriedades com @ConfigurationProperties
-- [ ] 2.27. Alterando a configuração do projeto dependendo do ambiente (com Spring Profiles)
-- [ ] 2.28. Ativando o Spring Profile por linha de comando e variável de ambiente
+- [x] 2.27. Alterando a configuração do projeto dependendo do ambiente (com Spring Profiles)
+- [x] 2.28. Ativando o Spring Profile por linha de comando e variável de ambiente
+  </details>
+
+  <details>
+  <summary> <b> 3.3-Introdução ao JPA e Hibernate </b> <i></i>
+  </summary>
+- [x] 3.1. Instalando o MySQL Server e MySQL Workbench
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
   </details>
 
 <details>
