@@ -50,7 +50,7 @@
 - [x] 3.2. O que é JPA e Hibernate?
 - [x] 3.3. Adicionando JPA e configurando o Data Source
 - [x] 3.4. Mapeando entidades com JPA
-- [ ]
+- [x] 3.5. Criando as tabelas do banco a partir das entidades
 - [ ]
 - [ ]
 - [ ]
