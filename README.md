@@ -48,8 +48,8 @@
 
 - [x] 3.1. Instalando o MySQL Server e MySQL Workbench
 - [x] 3.2. O que é JPA e Hibernate?
-- [ ] 3.3. Adicionando JPA e configurando o Data Source
-- [ ]
+- [x] 3.3. Adicionando JPA e configurando o Data Source
+- [x] 3.4. Mapeando entidades com JPA
 - [ ]
 - [ ]
 - [ ]
