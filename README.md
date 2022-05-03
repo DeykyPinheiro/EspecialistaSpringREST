@@ -52,7 +52,7 @@
 - [x] 3.4. Mapeando entidades com JPA
 - [x] 3.5. Criando as tabelas do banco a partir das entidades
 - [x] 3.6. Mapeando o id da entidade para autoincremento
-- [ ]
+- [x] 3.7. Importando dados de teste com import.sql
 - [ ]
 - [ ]
 - [ ]
